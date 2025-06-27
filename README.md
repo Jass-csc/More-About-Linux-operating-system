@@ -4,9 +4,11 @@ Hello, I am Jaskiran Kaur from the Department of Computer Science Engineering.
 
 FILE SYSTEM SOFTWARE: It is a crucial component of an operating system that manages how data is stored, organized, and retrieved on a storage device (like a hard drive, SSD, USB drive, etc.). Think of it like a librarian in a massive digital library. Without a librarian (the file system), all the books (data) would be scattered randomly, and it would be impossible to find anything.
 Here is a diagram of a file system structure:
+![image](https://github.com/user-attachments/assets/6ad9377f-eb3e-4a5a-86e3-30cce7da44a7)
 The file structure starts from a root directory (represented by /) and branches out into subdirectories.
 
 Shells have two types:
+![image](https://github.com/user-attachments/assets/67ede68f-7469-4328-a0a4-ff3325886657)
 
     Command-line shells
 
@@ -30,6 +32,7 @@ Shells have two types:
     DEBIAN ALMQUIST SHELL (dash): It's designed for efficiency and speed.
 
 VIRTUALBOX / VIRTUAL MACHINE:
+![image](https://github.com/user-attachments/assets/56b3d730-b949-4f33-b869-3084f73e0053)
 VirtualBox is a powerful, free, and open-source virtualization software developed by Oracle. It's classified as a Type 2 hypervisor (or hosted hypervisor), meaning it runs on top of an existing operating system (your "host" OS) rather than directly on the hardware.
 
 How VirtualBox Works:
@@ -42,6 +45,7 @@ VMWARE:
 VMware's technology allows you to run multiple independent virtual machines (VMs) on a single physical computer (server, desktop, or laptop). This fundamental concept, called virtualization, revolutionized IT infrastructure and enabled the growth of cloud computing.
 
 DUAL BOOT:
+![image](https://github.com/user-attachments/assets/5b9ddaa6-f5a0-434b-a23b-61c44186cf04)
 "Dual boot" refers to a computer configuration where two different operating systems are installed on the same physical computer. When you start the computer, a special program called a boot loader presents a menu, allowing you to choose which operating system you want to load and use.
 
 BARE METAL INSTALLATION:
